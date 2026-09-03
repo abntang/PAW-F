@@ -22,13 +22,6 @@ This repository contains all code documentation, exercise tasks, and practical p
 4. Open your browser and access via:
    ```text
    http://localhost/repo-name/
-
+   ```
+   
 > Created and maintained by Abintang Nur Muhammad — Informatics Engineering Student.
-
-
-Silakan *copy* teks di atas ke file `README.md` kamu. Kalau sudah disimpen, langsung dorong ke GitHub pakai perintah ini:
-
-```bash
-git add README.md
-git commit -m "docs: polish README.md markdown format"
-git push origin main
