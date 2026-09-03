@@ -1,27 +1,39 @@
 # Web Application Programming (PAW) — PHP
 
-This repository contains all code documentation, exercise tasks, and practical project materials for the **Web Application Programming (PAW)** course using **PHP**.
+This repository contains materials and exercises for the **Web Application Programming (PAW)** course using PHP.
 
 ## 📂 Directory Structure
 
-- `Latihan1/` - Collection of basic PHP syntax and logic exercises.
-- `Materi1/` - Class notes, experiments, and module learning codes.
-- `index.php` - Main landing page (*Directory Index*) for easy navigation across exercises and materials.
+* `Materi1/` — Materials, examples, and code experiments from the first class meeting.
+* `Latihan1/` — Exercises based on the topics covered in **Materi1**, focusing on applying the basic PHP concepts introduced in the first meeting.
+* `index.php` — Main page for navigating through the materials and exercises.
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies
 
-- **Language:** PHP 8+, HTML5, CSS3, JavaScript
-- **Local Server:** Laragon / Apache / MySQL
-- **Version Control:** Git & GitHub
+* PHP
+* HTML & CSS
+* JavaScript
+* Laragon / Apache
+* Git & GitHub
 
-## 🚀 How to Run the Project
+## 🚀 How to Run
 
-1. Ensure **Laragon** (or XAMPP) is installed and running.
-2. Clone or place this repository directly into your local server root directory (Example: `C:/laragon/www/repo-name/`).
-3. Start the **Apache** service in Laragon.
-4. Open your browser and access via:
-   ```text
-   http://localhost/repo-name/
-   ```
-   
-> Created and maintained by Abintang Nur Muhammad — Informatics Engineering Student.
+1. Start Laragon or another local web server.
+2. Place this repository inside the server directory, for example:
+
+```text
+C:/laragon/www/repository-name/
+```
+
+3. Start Apache.
+4. Open the project in your browser:
+
+```text
+http://localhost/repository-name/
+```
+
+---
+
+Created by **Abintang Nur Muhammad**
+Informatics Engineering Student
+
