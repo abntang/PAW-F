@@ -7,7 +7,7 @@ echo $string . '<br>';
 echo $string2 . '<br>';
 
 // String concatenation
-echo "Hello " . " World"; // Multiple concatenation . " and PHP";
+echo "Hello " . " World" . '<br>'; // Multiple concatenation . " and PHP";
 
 // String functions
 $string = "    Hello World      ";
